@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Shakibosd/Shakibosd/main/Black and Yellow Web Developer LinkedIn Banner.png">
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
-<h3 align="left">A passionate Django developer from Bangladesh</h3>
+<h3 align="left">A passionate Python developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibosd&label=Profile%20views&color=0e75b6&style=flat" alt="shakibosd" /> </p>
 
