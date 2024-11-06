@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Shakibosd/Shakibosd/main/Black and Yellow Web Developer LinkedIn Banner.png">
+<img src="Black and Yellow Web Developer LinkedIn Banner.png">
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
 <h3 align="left">A passionate Python developer from Bangladesh</h3>
 
