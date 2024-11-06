@@ -1,4 +1,4 @@
-<img src="https://github.com/Shakibosd/Shakibosd/blob/main/banner_img.png">
+<img src="https://github.com/Shakibosd/Shakibosd/main/banner_img.png">
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
 <h3 align="left">A passionate Python developer from Bangladesh</h3>
 
