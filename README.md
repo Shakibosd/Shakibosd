@@ -1,4 +1,4 @@
-<img src="[https://github.com/Shakibosd/Black and Yellow Web Developer LinkedIn Banner.png]">
+<img src="https://github.com/Shakibosd/Black and Yellow Web Developer LinkedIn Banner.png">
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
 <h3 align="left">A passionate Django developer from Bangladesh</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@syed_shaki27278" target="blank"><img src="https://img.shields.io/twitter/follow/@syed_shaki27278?logo=twitter&style=for-the-badge" alt="@syed_shaki27278" /></a> </p>
 
-- 🔭 I’m currently working on [Django || DRF](https://flower-seals.onrender.com)
+- 🔭 I’m currently working on [Django || DRF]
 
 - 🌱 I’m currently learning **Django || Reacj.js**
 
