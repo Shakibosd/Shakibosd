@@ -1,4 +1,4 @@
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner_img.png">
+<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/banner_img.png">
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
 <h3 align="left">A passionate Python developer from Bangladesh</h3>
 
