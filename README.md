@@ -1,4 +1,4 @@
-<img src="Black and Yellow Web Developer LinkedIn Banner.png">
+[<img src="Black and Yellow Web Developer LinkedIn Banner.png">](https://arturssmirnBlack and Yellow Web Developer LinkedIn Banner.pngovs.github.io/github-profile-readme-generator/images/banner.png)
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
 <h3 align="left">A passionate Python developer from Bangladesh</h3>
 
