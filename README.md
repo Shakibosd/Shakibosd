@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/vBjLf7B/banner-img.png">
+<img src="https://res.cloudinary.com/daasda9rp/image/upload/v1745746911/Black_and_Yellow_Web_Developer_LinkedIn_Banner_tisfg8.png">
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
 <h3 align="left">A passionate Python developer from Bangladesh</h3>
 
