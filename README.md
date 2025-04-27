@@ -2,8 +2,6 @@
 <h1 align="left">Hi 👋, I'm Syed Nazmus Shakib</h1>
 <h3 align="left">A passionate Python developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://res.cloudinary.com/daasda9rp/image/upload/v1745746911/Black_and_Yellow_Web_Developer_LinkedIn_Banner_tisfg8.png" alt="shakibosd" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakibosd" alt="shakibosd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@syed_shaki27278" target="blank"><img src="https://img.shields.io/twitter/follow/@syed_shaki27278?logo=twitter&style=for-the-badge" alt="@syed_shaki27278" /></a> </p>
